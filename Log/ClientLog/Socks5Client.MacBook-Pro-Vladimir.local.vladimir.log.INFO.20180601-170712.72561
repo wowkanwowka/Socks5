@@ -1,0 +1,5 @@
+Log file created at: 2018/06/01 17:07:12
+Running on machine: MacBook-Pro-Vladimir.local
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0601 17:07:12.972249 3082351424 Socks5Client.cpp:27] successfully connected
+I0601 17:07:12.973323 3082351424 Socks5Client.cpp:64] successfully sent connection request

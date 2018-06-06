@@ -1,0 +1,6 @@
+Log file created at: 2018/06/01 16:20:21
+Running on machine: MacBook-Pro-Vladimir.local
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0601 16:20:21.866130 3082351424 Socks5Server.cpp:75] End of file
+E0601 16:20:29.354986 3082351424 Socks5Server.cpp:75] End of file
+E0601 16:20:30.210397 3082351424 Socks5Server.cpp:75] End of file

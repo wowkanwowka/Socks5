@@ -1,0 +1,4 @@
+Log file created at: 2018/06/01 16:44:51
+Running on machine: MacBook-Pro-Vladimir.local
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0601 16:44:51.194025 3082351424 Socks5Server.cpp:61] new connection established 127.0.0.1
